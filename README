@@ -1,0 +1,4 @@
+SQL query from csv file
+
+Usage :
+    $ python query.py Tom
